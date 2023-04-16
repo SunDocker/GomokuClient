@@ -1,5 +1,7 @@
 # gomoku-client
 
+http://sundocker.online/gomoku
+
 ## Project setup
 ```
 npm install
